@@ -1,3 +1,3 @@
 # landing
 The landing page
-flameapp.host
+flameapp.github.io
