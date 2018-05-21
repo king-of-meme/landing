@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700,900');
+body {
+  padding-left: 20px;
+  color: #555;
+}
+.logo {
+  width: 60px;
+  padding-top: 30px;
+}
