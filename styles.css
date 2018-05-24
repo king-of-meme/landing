@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:400,700,900');
 body {
   padding-left: 20px;
-  color: #555;
+  color: rgb(32, 32, 32);
 }
 .logo {
   width: 60px;
